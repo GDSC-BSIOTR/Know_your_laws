@@ -66,5 +66,12 @@
         "introduced-year": "1956",
         "law_name": "Act to provide for the licensing of institutions for women and children",
         "description": "The Act to provide for the licensing of institutions for women and children"
+    },
+    {
+        "id": 10,
+        "article_no.": "31",
+        "introduced-year": "1949",
+        "law_name": "Right to Property",
+        "description": "Guarantees the right of private ownership but also the right to enjoy and dispose of property free from restrictions other than reasonable restriction."
     }
 ]
