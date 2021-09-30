@@ -141,6 +141,7 @@
         "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
 
     }
+
     
     {
          "id": 19 ,
@@ -151,3 +152,13 @@
 
     }
 ]
+
+    {
+        "id": 20 ,
+        "article_no.": "45",
+        "introduced-year": "2002",
+        "law_name": "Provision for free and compulsory education for children.",
+        "description": "The State shall endeavour to provide, within a period of ten years from the commencement of this Constitution, for free and compulsory education for all children until they complete the age of fourteen years."
+    },
+    
+
