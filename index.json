@@ -124,8 +124,17 @@
         "description": "At any sitting of the Legislative Council, while any resolution for the removal of the Chairman from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, t"
 
     },
-     {
+
+    {
          "id": 17 ,
+        "article_no.": "25",
+        "introduced-year": "1961",
+        "law_name": "THE ADVOCATES ACT",
+        "description": "An Act to amend and consolidate the law relating to the legal practitioners and to provide for the constitution of Bar Councils and an All-India Bar."
+    },
+  
+     {
+         "id": 18 ,
         "article_no.": "51A",
         "introduced-year": "1948",
         "law_name": "Fundamental duties",
