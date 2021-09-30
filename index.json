@@ -91,5 +91,12 @@
         "law_name": "Temporary, Transitional and Special Provisions",
         "description": "It stated that the Constituent Assembly of Jammu and Kashmir would be empowered to recommend the extent to which the Indian constitution would apply to the state."
 
+    },
+    {
+        "id": 13,
+        "article_no.": "18",
+        "introduced-year": "1850",
+        "law_name": "Racism Validity Act",
+        "description": "The State shall not press any charge against a person who spreads or supports racism."
     }
 ]
