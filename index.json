@@ -158,13 +158,20 @@
         "law_name": "fight on legal issues ",
         "description": "gives both the Governments a forum to fight on legal issues and not on mere political issues. Thus, the order given by the Government of India to the State Governments ordering the Chief Minister to tender advice to the Governor of the State is not a mere political issue but a legal right[21]."
 
-    }
+    },
     { 
       "id": 21,
       "article_no.": "15",
        "introduced-year": "2019",
        "law_name": "equality before law ",
        "description":"Every person has the right to recognition as a person before the law."  
+    },
+    {
+    "id": 22,
+      "article_no.": "18",
+       "introduced-year": "1949",
+       "law_name": "abolition of titles ",
+       "description":"No citizen of India shall accept any title from any foreign State" 
     }
 ]
 
