@@ -98,5 +98,12 @@
         "introduced-year": "1850",
         "law_name": "Racism Validity Act",
         "description": "The State shall not press any charge against a person who spreads or supports racism."
+    },
+    {
+         "id": 14 ,
+        "article_no.": "46",
+        "introduced-year": "1948",
+        "law_name": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.",
+        "description": "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes."
     }
 ]
