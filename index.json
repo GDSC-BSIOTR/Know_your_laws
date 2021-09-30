@@ -83,9 +83,76 @@
         "law_name": "Right to Property",
         "description": "Guarantees the right of private ownership but also the right to enjoy and dispose of property free from restrictions other than reasonable restriction."
 
-    }
+    },
     {
-    "id": 11,
+        "id": 12,
+        "article_no.": "370",
+        "introduced-year": "2019",
+        "law_name": "Temporary, Transitional and Special Provisions",
+        "description": "It stated that the Constituent Assembly of Jammu and Kashmir would be empowered to recommend the extent to which the Indian constitution would apply to the state."
+
+    },
+    {
+        "id": 13,
+        "article_no.": "18",
+        "introduced-year": "1850",
+        "law_name": "Racism Validity Act",
+        "description": "The State shall not press any charge against a person who spreads or supports racism."
+    },
+    {
+         "id": 14 ,
+        "article_no.": "46",
+        "introduced-year": "1948",
+        "law_name": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.",
+        "description": "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes."
+    },
+
+    
+    {
+         "id": 15 ,
+        "article_no.": "54",
+        "introduced-year": "1949",
+        "law_name": "Election of President",
+        "description": "The President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament; and the elected members of the Legislative Assemblies of the States."
+    },
+  
+     {
+         "id": 16 ,
+        "article_no.": "185",
+        "introduced-year": "1948",
+        "law_name": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.",
+        "description": "At any sitting of the Legislative Council, while any resolution for the removal of the Chairman from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, t"
+
+    },
+
+    {
+         "id": 17 ,
+        "article_no.": "25",
+        "introduced-year": "1961",
+        "law_name": "THE ADVOCATES ACT",
+        "description": "An Act to amend and consolidate the law relating to the legal practitioners and to provide for the constitution of Bar Councils and an All-India Bar."
+    },
+  
+     {
+         "id": 18 ,
+        "article_no.": "51A",
+        "introduced-year": "1948",
+        "law_name": "Fundamental duties",
+        "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
+
+    },
+  
+   {
+         "id": 19 ,
+        "article_no.": "334",
+        "introduced-year": "1970",
+        "law_name": "Reservation of seats and special representation to cease after [fifty years]",
+        "description": "the reservation of seats for the Scheduled Castes and the Scheduled Tribes in the House of the People and in the Legislative Assemblies of the States; and"
+
+    },
+
+    {
+    "id": 20,
         "article_no.": "131",
         "introduced-year": "1935",
         "law_name": "fight on legal issues ",
@@ -93,3 +160,4 @@
 
     }
 ]
+
