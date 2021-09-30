@@ -83,5 +83,13 @@
         "law_name": "Right to Property",
         "description": "Guarantees the right of private ownership but also the right to enjoy and dispose of property free from restrictions other than reasonable restriction."
 
+    },
+    {
+        "id": 12,
+        "article_no.": "370",
+        "introduced-year": "2019",
+        "law_name": "Temporary, Transitional and Special Provisions",
+        "description": "It stated that the Constituent Assembly of Jammu and Kashmir would be empowered to recommend the extent to which the Indian constitution would apply to the state."
+
     }
 ]
