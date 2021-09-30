@@ -106,18 +106,30 @@
         "law_name": "Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.",
         "description": "The State shall promote with special care the educational and economic interests of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes."
     },
-     {
+
+    
+    {
          "id": 15 ,
+        "article_no.": "54",
+        "introduced-year": "1949",
+        "law_name": "Election of President",
+        "description": "The President shall be elected by the members of an electoral college consisting of the elected members of both Houses of Parliament; and the elected members of the Legislative Assemblies of the States."
+    },
+  
+     {
+         "id": 16 ,
         "article_no.": "185",
         "introduced-year": "1948",
         "law_name": "The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.",
         "description": "At any sitting of the Legislative Council, while any resolution for the removal of the Chairman from his office is under consideration, the Chairman, or while any resolution for the removal of the Deputy Chairman from his office is under consideration, t"
+
     },
      {
-         "id": 16 ,
+         "id": 17 ,
         "article_no.": "51A",
         "introduced-year": "1948",
         "law_name": "Fundamental duties",
         "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
+
     }
 ]
