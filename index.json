@@ -166,6 +166,13 @@
         "introduced-year": "1949",
         "law_name": "The claims of the members of the Scheduled Castes and the Scheduled Tribes shall be taken into consideration, constantly with the maintenance of the efficiency of administration, in the making of appointments to services and posts in connection with the affairs of the Union or of a State."
   },
+    {
+        "id":22,
+        "article_no.": "108",
+        "introduced-year": "1949",
+        "law_name": "Joint sitting of both the Houses",
+        "description": "The joint sitting of the Parliament is called by the President of India (Article 108) and is presided over by the Speaker of the Lok Sabha or, in their absence, by the Deputy Speaker of the Lok Sabha, or in their absence, the Deputy Chairman of the Rajya Sabha."
+    },
     
   {
        "id" : 19,
