@@ -160,6 +160,8 @@
 
     },
 
+
+
   {
      "id": 21 ,
         "article_no.": "135",
@@ -182,12 +184,21 @@
        "description": " Seats shall be reserved in the House of the People for-the Scheduled Castes."
 
     },
+
     { 
       "id": 24,
       "article_no.": "15",
        "introduced-year": "2019",
        "law_name": "equality before law ",
        "description":"Every person has the right to recognition as a person before the law."  
+
+    },
+    {
+    "id": 25,
+      "article_no.": "18",
+       "introduced-year": "1949",
+       "law_name": "abolition of titles ",
+       "description":"No citizen of India shall accept any title from any foreign State" 
 
     }
 ]
