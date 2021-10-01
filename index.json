@@ -203,7 +203,7 @@
     }
 
 {
-        "id": 22,
+        "id": 26,
         "article_no.": "332",
         "introduced-year": "1949",
         "law_name": " Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States",
@@ -211,21 +211,42 @@
                         
     },
 {
-        "id": 23,
+        "id": 27,
         "article_no.": "74",
         "introduced-year": "1977",
         "law_name": " there shall be a Council of Ministers with the Prime Minister as its head to aid and advise the President.",
         "description": " Article 74(1) of the Constitution provides that there shall be a Council of Ministers with the Prime Minister as its head to aid and advise the President, who shall exercise his/her functions in accordance to the advice.".
                         
+
  },
  {
         "id": 25,
         "article_no.": "143",
         "introduced-year": "1978",
         "law_name": "Power of President to consult Supreme Court",
-        "description": "1.If at any time it appears to the President that a question of law or fact has arisen, or is likely to arise, which is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer the question to that Court for consideration and the Court may, after such hearing as it thinks fit, report to the President its opinion thereon
-         2.The President may, notwithstanding anything in the proviso to Article 131, refer a dispute of the kind mentioned in the said proviso to the Supreme Court for opinion and the Supreme Court shall, after such hearing as it thinks fit, report to the President its opinion thereon"
+        "description": "1.If at any time it appears to the President that a question of law or fact has arisen, or is likely to arise, which is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer the question to that Court for consideration and the Court may, after such hearing as it thinks fit, report to the President its opinion thereon 2.The President may, notwithstanding anything in the proviso to Article 131, refer a dispute of the kind mentioned in the said proviso to the Supreme Court for opinion and the Supreme Court shall, after such hearing as it thinks fit, report to the President its opinion thereon"
     },
+
+
+{
+
+        "id": 28,
+        "article_no.": "370",
+        "introduced-year": "1954",
+        "law_name": " Government approach",
+        "description": " acknowledges the special status of the state of Jammu and Kashmir in terms of autonomy and its ability to formulate laws for the state's permanent residents."
+},
+{
+        "id": 29,
+        "article_no.": "200",
+        "introduced-year": "1968",
+        "law_name": "Assent to Bills",
+        "description": "Article 200 of the Indian Constitution deals with the powers of the Governor with regard to assent given to bills passed by the State legislature" 
+                       "Other powers of the Governor such as reserving the bill for the President's consideration."
+    
+
+                        
+    }
 
 ]
 
