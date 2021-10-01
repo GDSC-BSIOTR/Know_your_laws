@@ -318,9 +318,10 @@
         "law_name": "Emergency Provisions",
         "description": "Repealed - Replaced by the Constitution (Sixty-third Amendment) Act, 1989, s. 3 (w.e.f. 6 January 1990)"
                    
-    }
+    },
+{
 
-         "id": 39,
+        "id": 39,
         "article_no.": " 21",
         "introduced-year": "2009",
         "law_name": "The Right of Children to Free and Compulsory Education Act .",
@@ -332,18 +333,13 @@
         "introduced-year": "2010",
         "law_name": "Prohibition of employment of children in factories.",
         "description": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
-}      
-
-},  
+},      
 {
         "id": 41,
         "article_no.": "21",
         "introduced-year": "1949",
         "law_name": "Protection of Life And Personal Liberty",
         "description": "Protection of life and personal liberty No person shall be deprived of his life or personal liberty except according to procedure established by law."
-                   
-    }
-
 },
 {
          "id": 42,
@@ -388,10 +384,7 @@
         "introduced-year": "1978",
         "law_name": "Right to property",
         "description": "Persons not to be deprived of property save by authority of law"
-} ,
-
-
-
+},
 {
         "id": 48,
         "article_no.": " 32",
