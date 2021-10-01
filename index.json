@@ -340,8 +340,35 @@
         "introduced-year": "2009",
         "law_name": "Right to Constitutional Remedies .",
         "description": " Remedies for enforcement of rights conferred by this Part."
-}        
-
+} ,
+{
+         "id": 42,
+        "article_no.": "369",
+        "introduced-year": "1949",
+        "law_name": "Power of paliament",
+        "description": "Temporary power to Parliament to make laws with respect to certain matters in the State List"
+} ,
+{
+         "id": 43,
+        "article_no.": " 371(A) ",
+        "introduced-year": "1949",
+        "law_name": "Special Provision for Nagaland",
+        "description": "no act of Parliament shall apply to the State of Nagaland"
+} ,
+{
+         "id": 44,
+        "article_no.": " 50 ",
+        "introduced-year": "1949",
+        "law_name": "Seperate Judiciary and Executive",
+        "description": "Separation of judiciary from the executive"
+} ,
+{
+         "id": 45,
+        "article_no.": "300A",
+        "introduced-year": "1978",
+        "law_name": "Right to property",
+        "description": "Persons not to be deprived of property save by authority of law"
+} ,
 
 
 ]
