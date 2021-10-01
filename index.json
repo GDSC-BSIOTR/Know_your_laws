@@ -389,4 +389,11 @@
         "law_name": "Assent to Bills",
         "description": "When a Bill is reserved by a Governor for the consideration of the President, the President shall declare either that he assents to the Bill or that he withholds assent"
     }
+    {
+        "id": 55,
+        "article_no.": "28",
+        "introduced-year": "1961",
+        "law_name": "The Dowry Prohibition",
+        "description": "Intended to prevent the giving or receiving of a dowry.Dowry includes property, goods, or money given by either party to the marriage"
+    }
 ]
