@@ -382,4 +382,11 @@
         "law_name": "Laws inconsistent with or in derogation of the fundamental rights",
         "description": "All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void."
     }
+    {
+        "id": 54,
+        "article_no.": "200",
+        "introduced-year": "1949",
+        "law_name": "Assent to Bills",
+        "description": "When a Bill is reserved by a Governor for the consideration of the President, the President shall declare either that he assents to the Bill or that he withholds assent"
+    }
 ]
