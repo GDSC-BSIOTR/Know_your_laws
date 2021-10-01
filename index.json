@@ -318,7 +318,15 @@
         "introduced-year": "2009",
         "law_name": "The Right of Children to Free and Compulsory Education Act .",
         "description": " To make education a fundamental right of every child when the Act came into force on 1 April 2010."
-}           
+}  ,  
+{
+        "id": 40,
+        "article_no.": "21",
+        "introduced-year": "1949",
+        "law_name": "Protection of Life And Personal Liberty",
+        "description": "Protection of life and personal liberty No person shall be deprived of his life or personal liberty except according to procedure established by law."
+                   
+    }
 
 ]
 
