@@ -403,4 +403,11 @@
         "law_name": "The Dowry Prohibition",
         "description": "Intended to prevent the giving or receiving of a dowry.Dowry includes property, goods, or money given by either party to the marriage"
     }
+     {
+        "id": 57,
+        "article_no.": "101",
+        "introduced-year": "1949",
+        "law_name": " Vacation of seats",
+        "description": " No person shall be a member of both Houses of Parliament and provision shall be made by Parliament by law for the vacation by a person who is chosen a member of both Houses of his seat in one House or the other"
+    }
 ]
