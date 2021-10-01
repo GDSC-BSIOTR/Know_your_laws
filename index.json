@@ -217,6 +217,16 @@
         "law_name": " there shall be a Council of Ministers with the Prime Minister as its head to aid and advise the President.",
         "description": " Article 74(1) of the Constitution provides that there shall be a Council of Ministers with the Prime Minister as its head to aid and advise the President, who shall exercise his/her functions in accordance to the advice.".
                         
+    },
+{
+        "id": 24,
+        "article_no.": "200",
+        "introduced-year": "1968",
+        "law_name": "Assent to Bills",
+        "description": "Article 200 of the Indian Constitution deals with the powers of the Governor with regard to assent given to bills passed by the State legislature" 
+                       "Other powers of the Governor such as reserving the bill for the President's consideration."
+    
+                        
     }
 
 ]
