@@ -203,7 +203,7 @@
     }
 
 {
-        "id": 22,
+        "id": 26,
         "article_no.": "332",
         "introduced-year": "1949",
         "law_name": " Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States",
@@ -211,7 +211,7 @@
                         
     },
 {
-        "id": 23,
+        "id": 27,
         "article_no.": "74",
         "introduced-year": "1977",
         "law_name": " there shall be a Council of Ministers with the Prime Minister as its head to aid and advise the President.",
@@ -219,13 +219,22 @@
                         
     },
 {
-        "id": 24,
+
+        "id": 28,
+        "article_no.": "370",
+        "introduced-year": "1954",
+        "law_name": " Government approach",
+        "description": " acknowledges the special status of the state of Jammu and Kashmir in terms of autonomy and its ability to formulate laws for the state's permanent residents."
+},
+{
+        "id": 29,
         "article_no.": "200",
         "introduced-year": "1968",
         "law_name": "Assent to Bills",
         "description": "Article 200 of the Indian Constitution deals with the powers of the Governor with regard to assent given to bills passed by the State legislature" 
                        "Other powers of the Governor such as reserving the bill for the President's consideration."
     
+
                         
     }
 
