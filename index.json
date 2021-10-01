@@ -246,7 +246,7 @@
     
 
                         
-    },
+    }
 {
         "id": 30,
         "article_no.": "45",
@@ -254,7 +254,7 @@
         "law_name": "Provision for free and compulsory education for children.",
         "description": "Article 45. Provision for free and compulsory education for children The State shall endeavour to provide, within a period of ten years from the commencement of this Constitution, for free and compulsory education for all children until they complete the age of fourteen years"
                    
-    },
+    }
 {
         "id": 31,
         "article_no.": "356",
@@ -262,7 +262,7 @@
         "law_name": "President's rule",
         "description": "In India, President's rule is the suspension of state government and imposition of direct Union government rule in a state. Under Article 356 of the Constitution of India, if a state government is unable to function according to Constitutional provisions, the Union government can take direct control of the state machinery. Subsequently, executive authority is exercised through the centrally appointed governor, who has the authority to appoint other administrators to assist them. The administrators are usually nonpartisan retired civil servants."
                    
-    },
+    }
 {
         "id": 32,
         "article_no.": "355",
@@ -270,7 +270,7 @@
         "law_name": "Emergency Provisions",
         "description": "Article 355 outlines the duties of the government concerning individual states ensuring that the governance of all states is according to the constitution during an emergency"
                    
-    },
+    }
 {
         "id": 33,
         "article_no.": "354",
@@ -278,7 +278,7 @@
         "law_name": "Emergency Provisions",
         "description": "Article 354 empowers the central government to make funding allocations within the centre-state financial arrangements besides those stated in Article 268–279"
                    
-    },
+    }
 {
         "id": 34,
         "article_no.": "353",
@@ -286,7 +286,7 @@
         "law_name": "Emergency Provisions",
         "description": "This article allows the central government to override the seventh schedule of the constitution (dealing with the differentiation of subjects between the central and state government). It also allows the president to prolong the life of the Lok Sabha one year at time"
                    
-    },
+    }
 {
         "id": 35,
         "article_no.": "356",
@@ -294,7 +294,7 @@
         "law_name": "Emergency Provisions",
         "description": "This article allows the President, on receipt of a report from the Governor of a State or otherwise, to declare a state of Emergency if he/she is satisfied that a situation has arisen in which the Government of the State cannot be carried on in accordance with the provisions of the Constitution"
                    
-    },
+    }
 {
         "id": 36,
         "article_no.": "356",
@@ -302,7 +302,7 @@
         "law_name": "Emergency Provisions",
         "description": "This article allows the central government to override the seventh schedule of the constitution (dealing with the differentiation of subjects between the central and state government). It also allows the president to prolong the life of the Lok Sabha one year at time"
                    
-    },
+    }
 {
         "id": 37,
         "article_no.": "357-358",
@@ -310,22 +310,56 @@
         "law_name": "Emergency Provisions",
         "description": "Provisions for State Governance and State funding by the President or Parliament and making laws to be enforced during the state of Emergency"
                    
-    },
-
+    }
 {
-         "id": 38,
+        "id": 38,
+        "article_no.": "359A",
+        "introduced-year": "1949",
+        "law_name": "Emergency Provisions",
+        "description": "Repealed - Replaced by the Constitution (Sixty-third Amendment) Act, 1989, s. 3 (w.e.f. 6 January 1990)"
+                   
+    }
+
+         "id": 39,
         "article_no.": " 21",
         "introduced-year": "2009",
         "law_name": "The Right of Children to Free and Compulsory Education Act .",
         "description": " To make education a fundamental right of every child when the Act came into force on 1 April 2010."
 },
 {
-         "id": 39,
+         "id": 40,
         "article_no.": "24",
         "introduced-year": "2010",
         "law_name": "Prohibition of employment of children in factories.",
         "description": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
 }      
+
+},  
+{
+        "id": 41,
+        "article_no.": "21",
+        "introduced-year": "1949",
+        "law_name": "Protection of Life And Personal Liberty",
+        "description": "Protection of life and personal liberty No person shall be deprived of his life or personal liberty except according to procedure established by law."
+                   
+    }
+
+},
+{
+         "id": 42,
+        "article_no.": " 57",
+        "introduced-year": "1955",
+        "law_name": "Eligibility for re-election",
+        "description": "A person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution be eligible for re-election to that office."
+
+},
+{
+         "id": 43,
+        "article_no.": " 32",
+        "introduced-year": "2009",
+        "law_name": "Right to Constitutional Remedies .",
+        "description": " Remedies for enforcement of rights conferred by this Part."
+}        
 
 ]
 
