@@ -319,30 +319,39 @@
         "description": "Repealed - Replaced by the Constitution (Sixty-third Amendment) Act, 1989, s. 3 (w.e.f. 6 January 1990)"
                    
     }
-=======
+
          "id": 39,
         "article_no.": " 21",
         "introduced-year": "2009",
         "law_name": "The Right of Children to Free and Compulsory Education Act .",
         "description": " To make education a fundamental right of every child when the Act came into force on 1 April 2010."
+
+},  
+{
+        "id": 40,
+        "article_no.": "21",
+        "introduced-year": "1949",
+        "law_name": "Protection of Life And Personal Liberty",
+        "description": "Protection of life and personal liberty No person shall be deprived of his life or personal liberty except according to procedure established by law."
+                   
+    }
+
 },
 {
-         "id": 40,
+         "id": 41,
         "article_no.": " 57",
         "introduced-year": "1955",
         "law_name": "Eligibility for re-election",
         "description": "A person who holds, or who has held, office as President shall, subject to the other provisions of this Constitution be eligible for re-election to that office."
 
-} ,
+},
 {
-         "id": 41,
+         "id": 42,
         "article_no.": " 32",
         "introduced-year": "2009",
         "law_name": "Right to Constitutional Remedies .",
         "description": " Remedies for enforcement of rights conferred by this Part."
 }        
-
-
 
 ]
 
