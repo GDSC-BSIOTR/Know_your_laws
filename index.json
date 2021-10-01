@@ -325,10 +325,18 @@
         "introduced-year": "2009",
         "law_name": "The Right of Children to Free and Compulsory Education Act .",
         "description": " To make education a fundamental right of every child when the Act came into force on 1 April 2010."
+},
+{
+         "id": 40,
+        "article_no.": "24",
+        "introduced-year": "2010",
+        "law_name": "Prohibition of employment of children in factories.",
+        "description": "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment."
+}      
 
 },  
 {
-        "id": 40,
+        "id": 41,
         "article_no.": "21",
         "introduced-year": "1949",
         "law_name": "Protection of Life And Personal Liberty",
@@ -338,7 +346,7 @@
 
 },
 {
-         "id": 41,
+         "id": 42,
         "article_no.": " 57",
         "introduced-year": "1955",
         "law_name": "Eligibility for re-election",
@@ -346,7 +354,7 @@
 
 },
 {
-         "id": 42,
+         "id": 43,
         "article_no.": " 32",
         "introduced-year": "2009",
         "law_name": "Right to Constitutional Remedies .",
