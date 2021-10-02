@@ -419,4 +419,11 @@
         "law_name": "Equality before law",
         "description": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
     }
+    {
+        "id": 37,
+        "article_no.": "357-358",
+        "introduced-year": "1949",
+        "law_name": "Emergency Provisions",
+        "description": "Provisions for State Governance and State funding by the President or Parliament and making laws to be enforced during the state of Emergency."
+    },
 ]
