@@ -403,4 +403,11 @@
         "law_name": "The Dowry Prohibition",
         "description": "Intended to prevent the giving or receiving of a dowry.Dowry includes property, goods, or money given by either party to the marriage"
     }
+    {
+        "id": 37,
+        "article_no.": "357-358",
+        "introduced-year": "1949",
+        "law_name": "Emergency Provisions",
+        "description": "Provisions for State Governance and State funding by the President or Parliament and making laws to be enforced during the state of Emergency."
+    },
 ]
