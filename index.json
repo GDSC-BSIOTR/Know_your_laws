@@ -426,4 +426,11 @@
         "law_name": "Emergency Provisions",
         "description": "Provisions for State Governance and State funding by the President or Parliament and making laws to be enforced during the state of Emergency."
     },
+{
+        "id": 38,
+        "article_no.": "292",
+        "introduced-year": "1971",
+        "law_name": "Borrowing by the Government of India",
+        "description": "The executive power of the Union extends to borrowing upon the security of the Consolidated Fund of India within such limits, if any, as may from time to time be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be so fixed."
+    },
 ]
