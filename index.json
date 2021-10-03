@@ -457,11 +457,23 @@
         "introduced-year": "1949",
         "law_name": "Borrowing by the Government of India",
         "description": "Organisation of village panchayats The State shall take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self government"
-    }
+    },
+
     {   "id": 66,
         "article_no.": "154",
         "introduced-year": "1872",
         "law_name": "the Indian evidence act",
         "description": "permit a person who calls a witness to put any question to him which might be put in cross-examination by the adverse party"
-    }
+    },
+
+
+{
+        "id": 67,
+        "article_no.": "54",
+        "introduced-year": "1949",
+        "law_name": " Election of president",
+        "description": "The President shall be elected by the members of both Houses of Parliament."
+     }
+
+
 ]
