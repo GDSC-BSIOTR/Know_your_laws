@@ -420,22 +420,33 @@
         "description": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
     }
     {
-        "id": 37,
+        "id": 61,
         "article_no.": "357-358",
         "introduced-year": "1949",
         "law_name": "Emergency Provisions",
         "description": "Provisions for State Governance and State funding by the President or Parliament and making laws to be enforced during the state of Emergency."
     },
 {
-        "id": 38,
+        "id": 62,
         "article_no.": "292",
         "introduced-year": "1971",
         "law_name": "Borrowing by the Government of India",
         "description": "The executive power of the Union extends to borrowing upon the security of the Consolidated Fund of India within such limits, if any, as may from time to time be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be so fixed."
     },
-        "id": 39,
+
+{
+        "id": 63,
+        "article_no.": "19",
+        "introduced-year": "1987",
+        "law_name": "International Human Rights",
+        "description": "Article 19 is an international human rights organisation that works to defend and promote freedom of expression and freedom of information worldwide. "
+    },
+
+
+        "id": 64,
         "article_no.": "40",
         "introduced-year": "1949",
         "law_name": "Borrowing by the Government of India",
         "description": "Organisation of village panchayats The State shall take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self government"
-    },
+    }
+]
