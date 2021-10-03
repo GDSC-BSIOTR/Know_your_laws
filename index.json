@@ -436,6 +436,15 @@
 
 {
         "id": 63,
+        "article_no.": "21",
+        "introduced-year": "1949",
+        "law_name": " Protection of Life and Personal Liberty",
+        "description": "No person shall be deprived of his life or personal liberty except according to a procedure established by law. Thus, article 21 secures two rights: Right to life, and. 2) Right to personal liberty."
+    },
+
+
+{
+        "id": 64,
         "article_no.": "19",
         "introduced-year": "1987",
         "law_name": "International Human Rights",
@@ -443,10 +452,11 @@
     },
 
 
-        "id": 64,
+        "id": 65,
         "article_no.": "40",
         "introduced-year": "1949",
         "law_name": "Borrowing by the Government of India",
         "description": "Organisation of village panchayats The State shall take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self government"
     }
+
 ]
