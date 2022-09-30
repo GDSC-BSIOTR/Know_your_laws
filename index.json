@@ -537,7 +537,7 @@
       "introduced-year":"1949",
       "law_name":"Laws inconsistent with or in derogation of the fundamental rights.",
       "description":"Laws inconsistent with or in derogation of the fundamental rights."
-   }
+   },
  {
       "id":75,
       "article_no.":"69",
@@ -555,14 +555,14 @@
         "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
 
 
-    }
+    },
  {
          "id": 99 ,
         "article_no.": "23",
         "introduced-year": "1948",
         "law_name": "human trafficking",
         "description": "Prohibition of traffic in human beings and forced labour"
-    }
+    },
 
 {
          "id": 100 ,
@@ -570,6 +570,14 @@
         "introduced-year": " 7th December 1948",
         "law_name": "FREEDOM TO MANAGE RELIGIOUS AFFAIRS",
         "description": "Subject to public order, morality and health, every religious denomination"
+    },
+
+{
+         "id": 101 ,
+        "article_no.": "61",
+        "introduced-year": " 16th September, 1985",
+        "law_name": "The Narcotic Drugs And Psychotropic Substances Act",
+        "description": "Punishment for consumption of any narcotic drug or psychotropic substance"
     }
 
 ]
