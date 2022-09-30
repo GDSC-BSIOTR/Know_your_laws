@@ -3,27 +3,32 @@
       "id":1,
       "article_no.":"14",
       "introduced-year":"1950",
+      "law_name":"Equality before law without fail",
+},
+{
+      "introduced-year":"1955",
       "law_name":"Equality before law",
       "description":"The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
    },
    {
       "id":2,
       "article_no.":"15(1)",
-      "introduced-year":"1949",
+      "introduced-year":"1945",
+      "introduced-year":"1947",
       "law_name":"Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
       "description":"The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them."
    },
    {
       "id":3,
       "article_no.":"15(2)",
-      "introduced-year":"1949",
+      "introduced-year":"1952",
       "law_name":"Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
       "description":"No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to-/n(a) access to shops, public restaurants, hotels and places of public entertainment; or /n(b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public."
    },
    {
       "id":4,
       "article_no.":"15(2)",
-      "introduced-year":"1949",
+      "introduced-year":"1939",
       "law_name":"Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth",
       "description":"No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to-/n(a) access to shops, public restaurants, hotels and places of public entertainment; or /n(b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public."
    },
@@ -50,7 +55,7 @@
    },
    {
       "id":8,
-      "article_no.":"43",
+      "article_no.":"44",
       "introduced-year":"1976",
       "law_name":"Living wage, etc., for workers",
       "description":"The State shall endeavour to secure, by suitable legislation or economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, inparticular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas."
@@ -85,7 +90,7 @@
    },
    {
       "id":13,
-      "article_no.":"370",
+      "article_no.":"373",
       "introduced-year":"2019",
       "law_name":"Temporary, Transitional and Special Provisions",
       "description":"It stated that the Constituent Assembly of Jammu and Kashmir would be empowered to recommend the extent to which the Indian constitution would apply to the state."
@@ -196,7 +201,7 @@
    },
    {
       "id":29,
-      "article_no.":"143",
+      "article_no.":"183",
       "introduced-year":"1978",
       "law_name":"Power of President to consult Supreme Court",
       "description":"1.If at any time it appears to the President that a question of law or fact has arisen, or is likely to arise, which is of such a nature and of such public importance that it is expedient to obtain the opinion of the Supreme Court upon it, he may refer the question to that Court for consideration and the Court may, after such hearing as it thinks fit, report to the President its opinion thereon 2.The President may, notwithstanding anything in the proviso to Article 131, refer a dispute of the kind mentioned in the said proviso to the Supreme Court for opinion and the Supreme Court shall, after such hearing as it thinks fit, report to the President its opinion thereon"
@@ -210,7 +215,7 @@
    },
    {
       "id":31,
-      "article_no.":"200",
+      "article_no.":"290",
       "introduced-year":"1968",
       "law_name":"Assent to Bills",
       "description":"Article 200 of the Indian Constitution deals with the powers of the Governor with regard to assent given to bills passed by the State legislature. Other powers of the Governor such as reserving the bill for the President's consideration."
@@ -495,6 +500,7 @@
       "introduced-year":"1949",
       "law_name":"Right to work, to education and to public assistance in certain cases",
       "description":"The State shall, within the limits of its economic capacity and development, make effective provision for securing the right to work, to education and to public assistance in cases of unemployment, old age, sickness and disablement, and in other cases of undeserved want"
+
    },
    {
       "id":71,
@@ -502,7 +508,60 @@
       "introduced-year":"1950",
       "law_name":"Discharge of President’s functions in other contingencies",
       "description":"Parliament may make such provisions as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter."
-   }
+=======
 
+   },
+   {
+      "id":768777,
+      "article_no.":"6900",
+      "introduced-year":"2056",
+      "law_name":"Right to work",
+      "description":"The State shall"
+   },
+=======
+   },
+   {
+      "id":73,
+      "article_no.":"100",
+      "introduced-year":"1949",
+      "law_name":"Voting in Houses power of Houses to act notwithstanding vacancies and quorum",
+      "description":"Save as otherwise provided in this Constitution, all questions at any sitting of either House or joint sitting of the Houses shall be determined by a majority of votes of the members present and voting, other than the Speaker or person acting as Chairman or Speaker"
+},
+{
+      "id":71,
+      "article_no.":"420",
+      "introduced-year":"1949",
+      "law_name":"Cheating and dishonestly inducing delivery of property",
+      "description":"Whoever cheats and thereby dishonestly induces the person de­ceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+      "article_no.":"13",
+      "introduced-year":"1949",
+      "law_name":"Laws inconsistent with or in derogation of the fundamental rights.",
+      "description":"Laws inconsistent with or in derogation of the fundamental rights."
+   }
+ {
+      "id":75,
+      "article_no.":"69",
+      "introduced-year":"1949",
+      "law_name":"The CONSTITUTION OF INDIA",
+      "description":" Oath or affirmation by the Vice President Every Vice President shall, before entering upon his office, make and subscribe before the President"
+   },
+
+    
+    {
+         "id": 19 ,
+        "article_no.": "51A",
+        "introduced-year": "1948",
+        "law_name": "Fundamental duties",
+        "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
+
+
+    }
+ {
+         "id": 99 ,
+        "article_no.": "23",
+        "introduced-year": "1948",
+        "law_name": "human trafficking",
+        "description": "Prohibition of traffic in human beings and forced labour"
+    }
 
 ]
