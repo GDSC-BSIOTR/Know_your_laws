@@ -571,5 +571,12 @@
         "law_name": "FREEDOM TO MANAGE RELIGIOUS AFFAIRS",
         "description": "Subject to public order, morality and health, every religious denomination"
     }
+   {
+      "id":101,
+      "article_no.":"43",
+      "introduced-year":"2005",
+      "law_name":"The Protection Of Women From Domestic Violence Act, 2005",
+      "description":"An Act to provide for more effective protection of the rights of women guaranteed under the Constitution who are victims of violence of any kind occurring within the family and formatters connected therewith or incidental thereto."
+   },
 
 ]
