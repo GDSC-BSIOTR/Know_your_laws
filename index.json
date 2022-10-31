@@ -577,6 +577,14 @@
     },
 
 {
+
+      "id":753,
+      "article_no.":"102",
+      "introduced-year":"2016",
+      "law_name":"The Bureau of Indian Standards Act",
+      "description":"An Act to provide for the establishment of a national standards body for the harmonious development of the activities of standardisation"
+},
+=======
          "id": 100 ,
         "article_no.": "26",
         "introduced-year": " 7th December 1948",
@@ -637,6 +645,7 @@
         "description": "Punishment for consumption of any narcotic drug or psychotropic substance"
 
    
+
 
 
 ]
