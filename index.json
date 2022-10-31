@@ -567,7 +567,7 @@
         "description": "to provide opportunities for education by the parent the guardian, to his child, or a ward between the age of 6-14 years as the case may be."
 
 
-    }
+    },
  {
          "id": 99 ,
         "article_no.": "23",
@@ -584,18 +584,9 @@
         "description": "Subject to public order, morality and health, every religious denomination"
     },
 
-   
 
 
-]
-{
-         "id": 101 ,
-        "article_no.": "19",
-        "introduced-year": " 17th October 1949",
-        "law_name": "Protection of certain rights regarding freedom of speech, etc",
-        "description": "Subject to freedom,gathering,living in any place"
-    }
-]
+
 {
       "id":102,
       "article_no.":"376",
@@ -636,6 +627,25 @@
         "introduced-year": "1971",
         "law_name": "Borrowing by the Government of India",
         "description": "The executive power of the Union extends to borrowing upon the security of the Consolidated Fund of India within such limits, if any, as may from time to time be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be so fixed."
+
+    }
+    {
+         "id": 101 ,
+        "article_no.": "61",
+        "introduced-year": " 16th September, 1985",
+        "law_name": "The Narcotic Drugs And Psychotropic Substances Act",
+        "description": "Punishment for consumption of any narcotic drug or psychotropic substance"
+
+   
+
+
+]
+{
+         "id": 101 ,
+        "article_no.": "19",
+        "introduced-year": " 17th October 1949",
+        "law_name": "Protection of certain rights regarding freedom of speech, etc",
+        "description": "Subject to freedom,gathering,living in any place"
 
     }
 ]
