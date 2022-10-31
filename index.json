@@ -5,6 +5,18 @@
       "introduced-year":"1950",
       "law_name":"Equality before law without fail",
 },
+      {
+      "id":87,
+      "article_no.":"87",
+      "introduced-year":"1949",
+      "law_name":"Special address by the President",
+},
+         {
+      "id":287,
+      "article_no.":"287",
+      "introduced-year":"1949",
+      "law_name":"Exemption from taxes on electricity Save in so far as Parliament may by law otherwise provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of electricity",
+},
 {
       "introduced-year":"1955",
       "law_name":"Equality before law",
@@ -456,7 +468,7 @@
         "description": "Article 19 is an international human rights organisation that works to defend and promote freedom of expression and freedom of information worldwide. "
     },
 
-
+   {
         "id": 65,
         "article_no.": "40",
         "introduced-year": "1949",
@@ -508,7 +520,7 @@
       "introduced-year":"1950",
       "law_name":"Discharge of President’s functions in other contingencies",
       "description":"Parliament may make such provisions as it thinks fit for the discharge of the functions of the President in any contingency not provided for in this Chapter."
-=======
+
 
    },
    {
@@ -518,8 +530,8 @@
       "law_name":"Right to work",
       "description":"The State shall"
    },
-=======
-   },
+
+  
    {
       "id":73,
       "article_no.":"100",
@@ -572,12 +584,68 @@
         "description": "Subject to public order, morality and health, every religious denomination"
     },
 
+
+
+
 {
+      "id":102,
+      "article_no.":"376",
+      "introduced-year":"1949",
+      "law_name":"Punishment for rape",
+      "description": "Whoever, except in the cases provided for by sub-section (2), commits rape shall be punished with imprisonment of either description for a term which shall not be less than seven years but which may be for life or for a term which may extend to ten years and shall also be liable to fine unless the women raped is his own wife and is not under twelve years of age, in which cases, he shall be punished with imprisonment of either description for a term which may extend to two years or with fine or with both: Provided that the court may, for adequate and special reasons to be mentioned in the judgment, impose a sentence of imprisonment for a term of less than seven years."
+   },
+   
+   
+   {
+
+      "id":101,
+      "article_no.":"43",
+      "introduced-year":"2005",
+      "law_name":"The Protection Of Women From Domestic Violence Act, 2005",
+      "description":"An Act to provide for more effective protection of the rights of women guaranteed under the Constitution who are victims of violence of any kind occurring within the family and formatters connected therewith or incidental thereto."
+   },
+
+               "id": 101 ,
+        "article_no.": "51",
+        "introduced-year": "1957",
+        "law_name": "international peace",
+        "description": "responsibility to promote international peace and security in the nation and maintain just and honourable relations with other nations.
+         "
+
+},
+
+{
+
+         "id": 110 ,
+        "article_no.": "34",
+        "introduced-year": " 18 May 2003",
+        "law_name": "Cigarettes and Other Tobacco Products Act",
+        "description": "The Cigarettes And Other Tobacco Products (Prohibition Of Advertisement And Regulation Of Trade And Commerce, Production, Supply And Distribution) Act, 2003"
+
+        "id": 566,
+        "article_no.": "292",
+        "introduced-year": "1971",
+        "law_name": "Borrowing by the Government of India",
+        "description": "The executive power of the Union extends to borrowing upon the security of the Consolidated Fund of India within such limits, if any, as may from time to time be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be so fixed."
+
+    }
+    {
          "id": 101 ,
         "article_no.": "61",
         "introduced-year": " 16th September, 1985",
         "law_name": "The Narcotic Drugs And Psychotropic Substances Act",
         "description": "Punishment for consumption of any narcotic drug or psychotropic substance"
-    }
 
+   
+
+
+]
+{
+         "id": 101 ,
+        "article_no.": "19",
+        "introduced-year": " 17th October 1949",
+        "law_name": "Protection of certain rights regarding freedom of speech, etc",
+        "description": "Subject to freedom,gathering,living in any place"
+
+    }
 ]
